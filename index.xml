@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DATA SCIENCE AND ARTIFICIAL INTELLIGENCE PORTFOLIO on Henton Kagiri</title>
+    <link>https://hkagiri.github.io/Henton_Portfolio/</link>
+    <description>Recent content in DATA SCIENCE AND ARTIFICIAL INTELLIGENCE PORTFOLIO on Henton Kagiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://hkagiri.github.io/Henton_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VI: Machine Learning Music Predictor using Scikit-Learn</title>
+      <link>https://hkagiri.github.io/Henton_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 15 Mar 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://hkagiri.github.io/Henton_Portfolio/post/project-6/</guid>
+      <description>Created a model using Decision Trees and Naive Bayes to:  Train the model Make predictions Evaluate and improve the machine learning model   Further functions done:  Importation of data Cleaning data Splitting the data into train and test data Importing the models. Displaying the decision tree model    Generated Decision Tree   Code available upon request.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Analyzing US Economic Data and Building a Dashboard</title>
+      <link>https://hkagiri.github.io/Henton_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 12 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://hkagiri.github.io/Henton_Portfolio/post/project-5/</guid>
+      <description>Key Learning Outcomes:  Use of BokehJS to visualize my extracted data Define a Function that Makes a Dashboard Create a dataframe that contains the GDP data and display it Create a dataframe that contains the unemployment data and display it Display a dataframe where unemployment was greater than 8.5% Use the function make_dashboard to make a dashboard Use of IBM Watson Cloud Save the dashboard on IBM cloud and display it    Code available upon request.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Natural Language Processing Post Election tweets with Python NLTK. </title>
+      <link>https://hkagiri.github.io/Henton_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://hkagiri.github.io/Henton_Portfolio/post/project-4/</guid>
+      <description>Created a tool using NLTK to:  Find the number of unique words in the file Find the top 10 most frequent tokens in the file. Remove empty rows and duplicates Remove non-alphanumeric characters Remove stop words Perform a Part of speech tagging Create a word cloud of the cleaned data    Word Cloud of Cleaned Tweets   Code provided upon request.</description>
+    </item>
+    
+    <item>
+      <title>Project III: COVID-19 Virus Visualization</title>
+      <link>https://hkagiri.github.io/Henton_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 13 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://hkagiri.github.io/Henton_Portfolio/post/project-3/</guid>
+      <description>Key Learning Outcomes:  In depth use of both Matplotlib and Numpy library Use of dictionaries to store virus parameters Creation of class virus Defining functions that compute to gain final result Use of conditional statement and loops Use of constructor &amp;lsquo;init:&amp;rsquo; Use of instance &amp;lsquo;self:&amp;rsquo; Plotting using scatter plots    Beginning of the spread     Growth of the spread     Maturity of the spread     Recovery from the virus   Code available upon request.</description>
+    </item>
+    
+    <item>
+      <title>Project  II: Performing Random Walks using Monte Carlo Simulation</title>
+      <link>https://hkagiri.github.io/Henton_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 03 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://hkagiri.github.io/Henton_Portfolio/post/project-2/</guid>
+      <description>Key Learning Outcomes:  Creation of a python function Use of for loops Use of conditional statements &amp;ldquo;if&amp;rdquo;, &amp;ldquo;elif&amp;rdquo; , &amp;ldquo;else&amp;rdquo; Importing randoms Define formulas that allow you to calculate the distance.    Partial code snippet   Code available upon request.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Student Score Prediction using Linear Regression based on the Hours Studied.</title>
+      <link>https://hkagiri.github.io/Henton_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 25 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://hkagiri.github.io/Henton_Portfolio/post/project-1/</guid>
+      <description>Learning Objectives: With an interest to discover how MatPlotLib Library works in Python, I ended up gaining the following learning outcomes:
+ Importing Libraries Importing Dataset into the notebook. Preparing the Data first by understanding its shape, head and description. Training the Algorithm Making Predictions from a test data set Evaluating the Algorithm to see whether the model performed with low error rate using Mean Absolute Error(MSE)  This mini project is my driving factor into deeply learning how most commonly used algorithms work and where they can be applied.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hkagiri.github.io/Henton_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hkagiri.github.io/Henton_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms:
+   Platform URL     Gmail: ckagiri98@gmail.com   LinkedIn: https://www.linkedin.com/in/henton-k-74a2b9157/   GitHub: https://github.com/HKagiri   Twitter: https://twitter.com/ckagiri98    </description>
+    </item>
+    
+  </channel>
+</rss>
